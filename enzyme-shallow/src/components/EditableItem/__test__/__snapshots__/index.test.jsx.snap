@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render string 1`] = `
+<Col
+  lg={8}
+  md={12}
+  xl={6}
+  xs={24}
+>
+  <FormItem
+    hasFeedback={false}
+    label="test"
+  >
+    test content
+  </FormItem>
+</Col>
+`;
+
+exports[`should render string 2`] = `
+<Col
+  lg={8}
+  md={12}
+  xl={6}
+  xs={24}
+>
+  <FormItem
+    hasFeedback={false}
+    label="test"
+  >
+    test content
+  </FormItem>
+</Col>
+`;
